@@ -1,5 +1,3 @@
-# How-does-a-bike-share-navigate-speedy-success?
----
 Case study: How does a bike-share navigate speedy success?
 ---
 author: **Sparsh Gupta**
