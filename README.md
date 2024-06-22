@@ -707,7 +707,7 @@ all_trips_v4 <- all_trips_v3 %>%
 write.csv(all_trips_v4, file = "all_trips_final.csv",row.names = FALSE)
 ```
 
-### Dashboard from tableau ([**\underline{link}**](https://public.tableau.com/app/profile/sparsh.gupta6875/viz/Casestudy1Howdoesabike-sharenavigatespeedysuccess/Dashboard3#1))
+### Dashboard from tableau ([**link**](https://public.tableau.com/app/profile/sparsh.gupta6875/viz/Casestudy1Howdoesabike-sharenavigatespeedysuccess/Dashboard3#1))
 
 <p align="center">
   <img src="https://lh3.googleusercontent.com/pw/AP1GczOIcELYiVV_cyFprSmH1O6Hp7UXo0oQK1L6QrTxj-J3NqlpOh6vj9s-zVUuwevON5x4huiDn4UwmmKsLtxumKrAVzazh6nUbtV8PqM52MOqj3CaEu4hXRIs248LFZop_fUTh1LDssnMGRwosCpo_AMowRUee_BSR5ep7zzaxk-b_zmL9Tn1IYeVTGJaV4zaiAbNJYiP0wX6_DfAdIGEv0SoC5h7zsnUZj-ixdgumLwoG1HgzpuOtBYheu6Y23bEdSAGcTaGqfzQpqwIyAe1O5g0cqWAyS27_y205AhZWIS8H_MRyTKd2esk1v9jPW9Us1pKK1s-vCe0GMa2fJRwcVSg3r38T3dqiN26KfGXk1eMXvKAZbuQkTL96mOy3L31Kw9ooRQqOMk1yGmlV5X0MOtmnMDk8LLBY7JHYp1VtGT7K_WB34SH1c5G4X8fTCc64_N7R8rDmIIOqvlPu0vPEzIVH0yFeha7dSzsQN_lhlp7Yi6E65dWX7YLlIjpsSHtauxyCjN91amuEwHZyHPKbQcmVNkjoRq1Kn4cB2cwjjmCG9a83NdH_MmSPEahadwnReKiB3nc0BR6Dl42vj-zpe4qthKcCa7PniDVOn9WSxNqHgzXWveaErwUWsfPFXI1I2_6bhoW74phEmee93F3L6qjpENLpLBuCK1_nC0668oEmOfdFaieV2p_jibewFSf2ZEbOmbQe9Ni_I97mMe3VAdmljM9tYBp0gOICKn832QVpAcGqzSHSjJVN4GHgIUVfO1zBop5uVfC3j4IAQmYdULQimf4Sc1XU0OrdwIMoZmwHtt6BTbsOekZCZH85UeHOCc__IPlOJcQELkNANM5ts5hse0qfEIc3auadaDUxG1Q6ScaUmj0QfbSBf0QwNHC-AS7SFjc_ulIj4hIf0zcr0ANk-ldKouLgLKs2HOJ7_FdHyG2yAZaljY3zGKMj5A=w1545-h869-s-no-gm?authuser=0"/>
